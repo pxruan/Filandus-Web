@@ -2,7 +2,7 @@
     <div class="container">
         <div class="bloco-1">
             <a href="#" target="_blank">
-                <img class="logo" src="arquivos/imagens/logo.png">
+                <img class="logo" src="assets/img/logo.png">
             </a>
             <span class="tituloPadrao1">
                 Olá, Informática 3
