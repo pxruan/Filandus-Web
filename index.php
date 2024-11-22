@@ -7,9 +7,13 @@
     <style>
         <?php require_once('assets/css/template.css'); ?>
         <?php require_once('assets/css/site-topo.css'); ?>
+        <?php require_once('assets/css/cardapio.css'); ?>
+        <?php require_once('assets/css/merenda.css'); ?>
     </style>
 </head>
 <body>
     <?php require_once('application/views/site-topo.php'); ?>
+    <?php require_once('application/views/cardapio.php'); ?>
+    <?php require_once('application/views/merenda.php'); ?>
 </body>
 </html>

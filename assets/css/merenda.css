@@ -1,0 +1,37 @@
+.merenda .container .items{
+    display: flex;
+    flex-wrap: wrap;
+    margin-top: 2.5%;
+}
+
+.merenda .container .items div[class*=item-]{
+    max-width: 31%;
+    background-color: white;
+    background-repeat: no-repeat;
+    border-radius: 5%;
+    padding: 0.75% 0.5%;
+    margin: 0.5%;
+    min-width: 160px;
+}
+
+.merenda .container .items div[class*=item-] .imagem{
+    
+}
+
+.merenda .container .items div[class*=item-] .imagem img{
+    width: 100%;
+}
+
+.merenda .container .items div[class*=item-] .titulo .tituloPadrao4{
+    color: black !important;
+}
+
+@media (max-width: 400px) {
+    .merenda .container .items{
+        flex-direction: column;
+        align-items: center;
+    }
+    .merenda .container .items div[class*=item-]{
+        max-width: 85%;
+    }
+}

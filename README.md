@@ -11,8 +11,7 @@ Alvaro 18/11 10:32
 Escobarly 18/11 10:32
 - Foi feito o topo do site(Html e CSS) e o template do site, junto com algumas correções.
 
-Escobarly 22/11 14:10
-- Foi feito a reorganização das pastas.
-
+Escobarly 22/11 14:43
+- Foi feito a reorganização das pastas e criação dos models e controllers.
 
 --                                  ..                                             --

@@ -1,13 +1,13 @@
 <?php
     class refeicoes_model{
 
-        //GETs
+        //GETS
         function getRefeicoes(){
             
         }
 
         function getMerenda($params = []){
-
+            
         }
 
         function getAlmoco($params = []){
@@ -35,7 +35,7 @@
 
         }
 
-        //ADDs
+        //ADDS
         function addRefeicao($params = []){
             
         }
@@ -52,7 +52,7 @@
 
         }
 
-        //EDITs
+        //EDITS
         function editRefeicao($params = []){
             
         }

@@ -10,7 +10,7 @@
         </div>
         <div class="bloco-2">
             <a href="#horario"><span class="tituloPadrao2">Horário</span></a>
-            <a href="#cardapio"><span class="tituloPadrao2 a_selected">Cardápio</span></a>
+            <a href="#cardapio"><span class="tituloPadrao2">Cardápio</span></a>
             <a href="#ajuda"><span class="tituloPadrao2">Ajuda</span></a>
         </div>
     </div>
